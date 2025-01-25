@@ -9,6 +9,7 @@ function say_hello() {
     console.log("What is your name?")
     console.log("aphirak")
     
+    console.log("Peeth")
 }
 
 // Don’t change the code under this comment!
